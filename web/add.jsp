@@ -28,9 +28,9 @@
         <tr>
             <td>客户性别</td>
             <td>
-                <input type="radio" name="gender" value="male" id="male"/>
+                <input type="radio" name="gender" value="男" id="male"/>
                 <label for="male">男</label>
-                <input type="radio" name="gender" value="female" id="female"/>
+                <input type="radio" name="gender" value="女" id="female"/>
                 <label for="female">女</label>
             </td>
             <td>

@@ -27,8 +27,8 @@
                 <td>
                     <select name="gender">
                         <option value="">==请选择性别==</option>
-                        <option value="男">男</option>
-                        <option value="女">女</option>
+                        <option value="male">male</option>
+                        <option value="female">female</option>
                     </select>
                 </td>
             </tr>
